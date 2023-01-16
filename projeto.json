@@ -22,4 +22,53 @@
             "preco": 51.3,
             "sinopse": " Marca Magicae, da DarkSide® Books, traz mais uma obra para integrar o coven e engrandecer sua coleção: Guia Mágico da Bruxa. Escrito por Mystic Dylan ― bruxo apaixonado por magia e especialista na arte de ensinar feitiços ―, este livro é o ponto de partida para você aprender a adotar uma abordagem mágica diante de todos os seus desejos."}
         
-        ]}
+
+    
+        ],
+    
+    "Revistas":[
+        {
+            "id": 1,
+            "nome": "A COSMOLOGIA NA SALA DE AULA Capa comum – 1 janeiro 2022",
+            "preco": 42.5},
+    
+        {
+            "id": 2,
+            "nome": "A Cosmologia Egípcia: O Universo Animado, Terceira Edição",
+            "preco": 61.9},
+    
+        {
+            "id": 3,
+            "nome": "Desvendando o cosmo: Como a matemática nos ajuda a compreender o Universo",
+            "preco": 48.9},
+        {
+            "id": 4,
+            "nome": "O que é cosmologia?: A revolução do pensamento cosmológico",
+            "preco": 42.3}
+        ],
+
+
+        "Cartas de tarot":[
+
+            {"id": 1,
+            "nome": "Baralho O Tarot Negro Deck com 22 cartas",
+            "preco": 22.9},
+    
+        {
+            "id": 2,
+            "nome": "Grande Taro de Waite Acabamento especial",
+            "preco": 74.9},
+    
+        {
+            "id": 3,
+            "nome": "Tarô claro e simples: Aprenda a ler as cartas de maneira rápida e prática",
+            "preco": 48.9},
+        {
+            "id": 4,
+            "nome": "Cat Tarot: 78 Cards & Guidebook",
+            "preco": 42.3}
+
+            ]
+
+            
+    }
