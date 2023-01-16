@@ -1,0 +1,25 @@
+{
+    "livros":[
+        {
+            "id": 1,
+            "nome": "Wicca essencial: Uma visão abrangente e moderna sobre a antiga religião das bruxas Capa dura – 3 maio 2022",
+            "preco": 80.0,
+            "sinopse":" Nesta obra, Estelle Daniels e Paul Tuitéan descrevem as tradições e práticas, tanto do coven wiccaniano como do praticante solitário. É um dos raros livros que identifica corretamente os pentagramas de invocação e banimento; traz ensinamentos sobre a configuração de escudos de energia contra-ataques psíquicos, além de mostrar os perigos de algumas formas de adivinhação. Na realidade, Wicca Essencial são três livros em um só: uma introdução geral à Wicca que apresenta as crenças e valores que os wiccanianos professam e descreve festivais, reuniões, datas comemorativas e ritos de passagem; um guia abrangente sobre a religião e a prática da Wicca com informações detalhadas sobre como o coven funciona como comunidade, como e por que começar um coven, escolher os membros, criar círculos e realizar rituais, e uma obra de referência a termos, ideias e conceitos encontrados na Wicca, constituindo um glossário ilustrado com mais de 200 termos wiccanianos e metafísicos. Obra ideal tanto para o principiante nessa arte como também para qualquer praticante experiente."},
+        
+        {
+            "id": 2,
+            "nome": "O livro da lua (1ª edição com brinde): Magia lunar para mudar a sua vida Capa comum – 24 junho 2022",
+            "preco": 53.9,
+            "sinopse": "Dependendo do momento em que nos encontramos na vida, do que sentimos ou do que está acontecendo ao redor, a Lua pode iluminar caminhos com diversos rituais e hábitos facilmente incorporados ao nosso cotidiano. O livro da Lua é um guia abrangente para uma vida lunar, que inclui ferramentas e recursos e proporciona a estrutura necessária para utilizar o ciclo lunar e estabelecer um relacionamento com nós mesmos"},
+        {
+            "id": 3,
+            "nome": "Wiccapédia: O Guia da Bruxaria Moderna Capa dura – 25 outubro 2022",
+            "preco": 71.9,
+            "sinopse": "Em Wiccapédia: O Guia da Bruxaria Moderna, de Shawn Robbins e Leanna Greenaway ― bruxas experientes que trabalham nos campos da astrologia, clarividência, entre outras artes milenares ―, vamos estreitar nosso elo mágico com o universo Wicca, explorando os principais aspectos da bruxaria moderna e aprendendo a fazer feitiços positivos para obter resultados melhores nas nossas vidas."},
+        {
+            "id": 4,
+            "nome": "Guia Mágico da Bruxa Capa dura – 14 junho 2022",
+            "preco": 51.3,
+            "sinopse": " Marca Magicae, da DarkSide® Books, traz mais uma obra para integrar o coven e engrandecer sua coleção: Guia Mágico da Bruxa. Escrito por Mystic Dylan ― bruxo apaixonado por magia e especialista na arte de ensinar feitiços ―, este livro é o ponto de partida para você aprender a adotar uma abordagem mágica diante de todos os seus desejos."}
+        
+        ]}
